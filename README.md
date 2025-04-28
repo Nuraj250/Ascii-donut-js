@@ -51,6 +51,3 @@ Coming soon... (or you can open the `donut.html` file locally in your browser!)
 
 This project is licensed under the MIT License. Feel free to copy, modify, and have fun! 🎉
 
-```
-
-
