@@ -7,7 +7,7 @@ This project is inspired by the legendary [donut.c](https://www.a1k0n.net/2011/0
 
 ## 🚀 Live Demo
 
-Coming soon... (or you can open the `donut.html` file locally in your browser!)
+you can open the `donutjs.html` file locally in your browser!
 
 ---
 
@@ -23,10 +23,10 @@ Coming soon... (or you can open the `donut.html` file locally in your browser!)
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/ascii-donut-js.git
+   git clone https://github.com/Nuraj250/ascii-donut-js.git
    ```
 
-2. Open `donut.html` in your favorite browser.
+2. Open `donutjs.html` in your favorite browser.
 
 ---
 
