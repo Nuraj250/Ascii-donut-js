@@ -1,6 +1,6 @@
 # 🍩 ASCII Donut (JavaScript Version)
 
-A rotating 3D ASCII donut — rendered inside your browser using pure JavaScript and HTML.  
+A rotating 3D ASCII donut rendered inside your browser using pure JavaScript and HTML.  
 This project is inspired by the legendary [donut.c](https://www.a1k0n.net/2011/07/20/donut-math.html) written in C!
 
 ---
